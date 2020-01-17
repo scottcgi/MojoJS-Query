@@ -8,7 +8,7 @@ It not only supports **full CSS3 Selectors** and more, and **easy-to-extend**, b
 * Released version in [releases](https://github.com/scottcgi/MojoJS-Query/releases).
 * Release changes in [ChangeLog](https://github.com/scottcgi/MojoJS-Query/blob/master/ChangeLog.md).
 
-The [Online Speed-Test](https://scottcgi.github.io/MojoJS-Query/query/speed-test/index.html) shows the support selectors and speed comparison with native query.
+The [Online Speed-Test](https://scottcgi.github.io/MojoJS-Query/speed-test/index.html) shows the support selectors and speed comparison with native query.
 
 ## License
 
