@@ -1,7 +1,7 @@
 /*
  * Copyright (c) scott.cgi All Rights Reserved.
  * 
- * This source code belongs to project MojocJS-Query, which is a CSS Seletor Engine hosted on GitHub, 
+ * This source code belongs to project MojocJS-Query, which is a JS CSS Seletor Engine hosted on GitHub, 
  * and licensed under the MIT License.
  * 
  * License: https://github.com/scottcgi/MojoJS-Query/blob/master/LICENSE
