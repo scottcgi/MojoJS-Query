@@ -1,7 +1,7 @@
 MojoJS-Query
 ============
 
-MojoJS-Query is a pure javascript **CSS Selector Engine**. 
+MojoJS-Query is a pure javascript **CSS Selector** engine. 
 
 It not only supports **full CSS3 Selectors** and more, and **easy-to-extend**, but also has very **simple**, **beautiful**, **easy-to-understand** code structure and implementation ideas.
 
