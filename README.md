@@ -1,5 +1,4 @@
-MojoJS-Query
-============
+## MojoJS-Query v2.0.0
 
 MojoJS-Query is a pure javascript **CSS Selector** engine. 
 
